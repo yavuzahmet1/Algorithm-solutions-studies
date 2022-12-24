@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="253488d6-d3be-4150-982a-19dc377c619d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/HouseSizeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/utilty/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstracts/FilterSmallHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstracts/HouseFilter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671903370627</updated>
-      <workItem from="1671903371921" duration="982000" />
+      <workItem from="1671903371921" duration="1351000" />
     </task>
     <servers />
   </component>

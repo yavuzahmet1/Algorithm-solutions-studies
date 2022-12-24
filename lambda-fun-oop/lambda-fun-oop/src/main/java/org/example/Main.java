@@ -2,6 +2,7 @@ package org.example;
 
 import org.example.model.House;
 import org.example.model.HouseSizeType;
+import org.example.utilty.Util;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -13,4 +14,5 @@ public class Main {
                 new House(HouseSizeType.SMALL, 213000),
                 new House(HouseSizeType.LARGE, 22000));
     }
+  
 }
