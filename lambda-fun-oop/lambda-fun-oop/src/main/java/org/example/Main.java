@@ -14,5 +14,5 @@ public class Main {
                 new House(HouseSizeType.SMALL, 213000),
                 new House(HouseSizeType.LARGE, 22000));
     }
-  
+
 }
