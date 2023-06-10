@@ -44,7 +44,7 @@ public class Main {
 
     public static void main(String[] args) {
         String s = "anagram";
-        String t = "nagarma";
+        String t = "nagrama";
         System.out.println(isAnagram(s, t));
         System.out.println(isAnagram2(s, t));
 
